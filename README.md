@@ -8,4 +8,4 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo (app.patike.dev)
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 ------------
 # License
-[MIT License]
+[MIT]
