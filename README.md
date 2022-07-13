@@ -1,5 +1,5 @@
 ## Kodluyoruz İlk Repo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo (app.patike.dev)
+Kodluyoruz Eğitimi kapsamında açtığım ilk repo [Patika](app.patika.dev)
 
 ## Installation
 https://github.com/78alihan78/kodluyoruzilkrepo
